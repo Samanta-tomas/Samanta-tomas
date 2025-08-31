@@ -9,7 +9,9 @@ Analista de Sistemas con foco en **Análisis funcional**, **Programación**, Bas
 
 ## 🎓 Formación
 - **Tecnicatura en Análisis de Sistemas** — ISFDyT N° 210 (completo)
-- Cursos: Java (programación)
+- **Cursos:**
+- Java 
+- Data Science 
 - Programando el Futuro (programación y arquitectura)
 - LSA (lengua de señas argentinas)
 - Inglés
