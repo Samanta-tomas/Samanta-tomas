@@ -23,7 +23,7 @@ Analista de Sistemas con foco en **Análisis funcional**, **Programación**, Bas
 
 ## 📌 Proyectos Destacados
 - **Sistema de gestión – ISFDyT N° 210** 
-  Análisis funcional y planificación del Product Backlog, entrevistas, diagramas UML, tablero en Trello, Colaboración en el desarrollo en Django con Python
+  Análisis funcional y planificación del Product Backlog, entrevistas, diagramas UML, tablero en Trello, colaboración en el desarrollo en Django con Python
 - **Gestión de bienes – Hospital Alejandro Korn**
   Prototipo para gestión de bienes realizado con ***Figma**
   Relevamiento, modelado de datos y documentación funcional (manual de usuario, diagramas uml) 
